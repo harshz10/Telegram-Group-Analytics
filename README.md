@@ -3,6 +3,8 @@
  ![Image Alt](https://github.com/harshz10/Data-Analyst/blob/8691df90a89a97fa80d70daa8670bd41e1fe6a86/store/analytics%20proposal.png).
  ![Image Alt](https://github.com/harshz10/Data-Analyst/blob/0df57ddc0bbec2e3e0900c613fdf8fce721a05df/store/admin%20dashboard.png)
 
+ https://github.com/user-attachments/assets/79c5036f-bffc-4eae-909e-a3a0b744fdf1
+
 # Social Media Analytics Dashboard
 
 A Flask-based analytics platform for analyzing social media group interactions, member behavior, and content trends. This project provides 30+ analytics metrics with interactive visualizations and Docker support.
