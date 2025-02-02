@@ -5,10 +5,8 @@
 
  https://github.com/user-attachments/assets/79c5036f-bffc-4eae-909e-a3a0b744fdf1
 
-# Social Media Analytics Dashboard
 
-markdown
-Copy
+
 # Telegram Group Analytics & Admin Dashboard
 
 ## Problem Statement
