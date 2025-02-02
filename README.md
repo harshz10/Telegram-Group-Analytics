@@ -1,6 +1,6 @@
 
  ![Image Alt](https://github.com/harshz10/Data-Analyst/blob/df9c70045ad93d541b1b17e9037fdcbc0165be91/store/home.png)
- ![Image Alt]().
+ ![Image Alt](https://github.com/harshz10/Data-Analyst/blob/8691df90a89a97fa80d70daa8670bd41e1fe6a86/store/analytics%20proposal.png).
  ![Image Alt](https://github.com/harshz10/Data-Analyst/blob/0df57ddc0bbec2e3e0900c613fdf8fce721a05df/store/admin%20dashboard.png)
 
 # Social Media Analytics Dashboard
