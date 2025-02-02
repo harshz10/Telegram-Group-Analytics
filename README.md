@@ -31,7 +31,78 @@ This project addresses two technical challenges for a Data Analyst role:
 ├── requirements.txt # Python dependencies (Flask, pandas, etc.)
 └── analytics.docx # Detailed documentation of 20 + 30 analytics
 
-Copy
+# How to Run the Project
+
+## Prerequisites
+Before running the project, ensure you have the following installed:
+1. **Docker** (for containerization) - [Download Docker](https://www.docker.com/get-started)
+2. **Git** (optional, for cloning the repository) - [Download Git](https://git-scm.com/)
+3. **Python 3.9+** (if running locally without Docker)
+4. **Repository Access**: Clone or download the GitHub repository provided.
+
+---
+
+## Step-by-Step Instructions
+
+### Method 1: Using Docker (Recommended)
+1. **Clone the Repository**:
+   ```bash
+   git clone [your-github-repository-link]
+   cd [repository-folder-name]
+Build the Docker Image:
+
+bash
+
+docker build -t telegram-analytics .
+Run the Docker Container:
+
+bash
+
+docker run -p 5000:5000 telegram-analytics
+Verify the Application:
+
+The Flask app will run on http://localhost:5000.
+
+Check the logs for success messages:
+
+bash
+
+docker logs [container-id]  # Replace with your container ID
+Method 2: Running Locally (Without Docker)
+Clone the Repository:
+
+bash
+
+git clone [your-github-repository-link]
+cd [repository-folder-name]
+Create a Virtual Environment (optional but recommended):
+
+bash
+
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+Install Dependencies:
+
+bash
+
+pip install -r requirements.txt
+Run the Flask Application:
+
+bash
+
+python app.py
+Access Endpoints:
+
+The app will be available at http://localhost:5000.
+
+Example endpoints (modify in app.py for actual logic):
+
+GET /daily_messages: Returns dummy daily message counts.
+
+GET /active_users: Lists placeholder active users.
+
+
 
 ## Installation & Usage
 
@@ -47,7 +118,7 @@ Copy
 Build and Run the Docker Container:
 
 bash
-Copy
+
 docker build -t telegram-analytics .
 docker run -p 5000:5000 telegram-analytics
 Access Endpoints:
@@ -74,7 +145,7 @@ Dependencies
 Python libraries listed in requirements.txt:
 
 text
-Copy
+
 Flask==2.0.3
 pandas==1.3.5
 matplotlib==3.5.1
@@ -82,7 +153,7 @@ matplotlib==3.5.1
 License
 MIT License - See LICENSE for details
 
-Copy
+
 
 **To Use This README:**
 1. Replace placeholders (`yourusername`, repo URL)
