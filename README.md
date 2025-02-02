@@ -1,4 +1,4 @@
- ![Image Alt](image_url)
+ ![Image Alt]([image_url](https://github.com/harshz10/Data-Analyst/blob/de92f48ef0e5301783c5ff6ec29d6faf23c58e09/store/home.png))
  ![Image Alt](image_url)
  ![Image Alt](https://github.com/harshz10/Data-Analyst/blob/0df57ddc0bbec2e3e0900c613fdf8fce721a05df/store/admin%20dashboard.png)
 
