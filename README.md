@@ -1,3 +1,7 @@
+ ![Image Alt](image_url)
+ ![Image Alt](image_url)
+ ![Image Alt](image_url)
+
 # Social Media Analytics Dashboard
 
 A Flask-based analytics platform for analyzing social media group interactions, member behavior, and content trends. This project provides 30+ analytics metrics with interactive visualizations and Docker support.
