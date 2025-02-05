@@ -151,7 +151,7 @@ pandas==1.3.5
 matplotlib==3.5.1
 
 License
-MIT License - See LICENSE for details
+MIT License See LICENSE for details
 
 
 
