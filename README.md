@@ -155,11 +155,4 @@ MIT License See LICENSE for details
 
 
 
-**To Use This README:**
-1. Replace placeholders (`yourusername`, repo URL)
-2. Add actual license file if needed
-3. Update with your specific analytics descriptions
-4. Include screenshots of dashboard if available
-5. Add team/author information if required
 
-The document follows best practices for open-source projects while meeting the specified requirements. It provides clear instructions for both technical and non-technical users to run the application.
