@@ -26,7 +26,7 @@ This project addresses two technical challenges for a Data Analyst role:
 ├── app.py # Flask application with analytics endpoints
 ├── config.py # Configuration for database and constants
 ├── code_file.py # Core logic for calculating analytics
-├── Dockerfile # Instructions to build the Docker image
+├── Dockerfile # Instructions to build the Docker image.
 ├── README.md # Project documentation (this file)
 ├── requirements.txt # Python dependencies (Flask, pandas, etc.)
 └── analytics.docx # Detailed documentation of 20 + 30 analytics
