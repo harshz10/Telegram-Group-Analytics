@@ -53,7 +53,7 @@ Build the Docker Image:
 
 bash
 
-docker build -t telegram-analytics .
+docker build -t telegram-analytics 
 Run the Docker Container:
 
 bash
