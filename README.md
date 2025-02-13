@@ -24,7 +24,7 @@ This project addresses two technical challenges for a Data Analyst role:
 │ ├── app.log
 │ └── error.log
 ├── app.py # Flask application with analytics endpoints
-├── config.py # Configuration for database and constants
+├── config.py # Configuration for database and constants.
 ├── code_file.py # Core logic for calculating analytics
 ├── Dockerfile # Instructions to build the Docker image.
 ├── README.md # Project documentation (this file)
