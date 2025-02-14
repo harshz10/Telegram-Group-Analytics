@@ -38,7 +38,7 @@ Before running the project, ensure you have the following installed:
 1. **Docker** (for containerization) - [Download Docker](https://www.docker.com/get-started)
 2. **Git** (optional, for cloning the repository) - [Download Git](https://git-scm.com/)
 3. **Python 3.9+** (if running locally without Docker)
-4. **Repository Access**: Clone or download the GitHub repository provided.
+4. **Repository Access**: Clone or download the GitHub repository provided
 
 ---
 
