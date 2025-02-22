@@ -42,7 +42,7 @@ Before running the project, ensure you have the following installed:
 
 ---
 
-## Step-by-Step Instructions
+## Step-by-Step Instructions.
 
 ### Method 1: Using Docker (Recommended)
 1. **Clone the Repository**:
