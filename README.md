@@ -144,7 +144,7 @@ Includes descriptions, purposes, and schema fields used for each analytic.
 Dependencies
 Python libraries listed in requirements.txt:
 
-text
+text.
 
 Flask==2.0.3
 pandas==1.3.5
