@@ -10,9 +10,9 @@
 # Telegram Group Analytics & Admin Dashboard
 
 ## Problem Statement
-This project addresses two technical challenges for a Data Analyst role:
-1. **Technical Round 1**: Propose 20 analytics metrics based on schema data from Telegram groups (Group Info, Member Info, Message Info).
-2. **Technical Round 2**: Design an Admin Dashboard with 30 analytics/visualizations to help admins manage group engagement, growth, and content.
+This project addresses two technical challenges :
+1. **Technical **: Propose 20 analytics metrics based on schema data from Telegram groups (Group Info, Member Info, Message Info).
+2. **Technical **: Design an Admin Dashboard with 30 analytics/visualizations to help admins manage group engagement, growth, and content.
 
 ## Solution Overview
 - **Analytics Proposal**: 20 metrics (e.g., Group Activity Score, Message Sentiment Analysis) derived from schema fields like `member_count`, `message_type`, and `timestamp`.
