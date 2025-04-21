@@ -17,7 +17,7 @@ This project addresses two technical challenges :
 ## Solution Overview
 - **Analytics Proposal**: 20 metrics (e.g., Group Activity Score, Message Sentiment Analysis) derived from schema fields like `member_count`, `message_type`, and `timestamp`.
 - **Admin Dashboard**: 30 visualizations (e.g., Daily Active Users, Spam Detection) to monitor group health, trends, and moderation efficiency.
-- **Implementation**: A Flask app containerized using Docker, with logging, configuration, and dummy endpoints for demonstration.
+- **Implementation**: A Flask app containerized using Docker, with logging, configuration, and dummy endpoints for demonstration..
 
 ## Folder Structure
 ├── logs/ # Log files for app processes and errors
