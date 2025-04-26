@@ -7,7 +7,7 @@
 
 
 
-# Telegram Group Analytics & Admin Dashboard
+# Telegram Group Analytics & Admin Dashboard.
 
 ## Problem Statement
 This project addresses two technical challenges :
