@@ -10,7 +10,7 @@
 # Telegram Group Analytics & Admin Dashboard.
 
 ## Problem Statement
-This project addresses two technical challenges :
+This project addresses two technical challenges - 
 1. **Technical **: Propose 20 analytics metrics based on schema data from Telegram groups (Group Info, Member Info, Message Info).
 2. **Technical **: Design an Admin Dashboard with 30 analytics/visualizations to help admins manage group engagement, growth, and content.
 
@@ -152,6 +152,7 @@ matplotlib==3.5.1
 
 License
 MIT License See LICENSE for details
+
 
 
 
