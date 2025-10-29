@@ -63,7 +63,7 @@ Verify the Application:
 
 The Flask app will run on http://localhost:5000.
 
-Check the logs for success messages:
+Check the logs for success for messages:
 
 bash
 
@@ -152,6 +152,7 @@ matplotlib==3.5.1
 
 License
 MIT License See LICENSE for details
+
 
 
 
